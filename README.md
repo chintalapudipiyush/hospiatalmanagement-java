@@ -1,6 +1,4 @@
-Here's a reformatted version of your GitHub README in a bulleted list format, with clear separations for readability. This layout enhances the visual organization, making it easier for users and contributors to quickly grasp the key components and functionality of your Hospital Management System (HMS).
 
----
 
 # Hospital Management System (HMS) Overview
 
